@@ -4,7 +4,7 @@ I am Wei Rong, an incoming penultimate computer science student minoring in [inn
 
 I love Software Engineering and other forms of engineering as it allows me to create solutions whenever I think, "If only there was something...".  I particularly enjoy the blockchain space because of the constant innovation to capture the attention economy. 
 
-I like playing the [Otamatone](https://otamatone.com/), posting on LinkedIn for fun. 
+I like playing the [Otamatone](https://otamatone.com/) and posting on LinkedIn for fun. 
 
 Feel free to take a look at my past projects at [wr1159.github.io/](https://wr1159.github.io/)
 <!--
