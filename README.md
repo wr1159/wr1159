@@ -1,6 +1,6 @@
 Hello! 👋
 
-I am Wei Rong, an incoming penultimate computer science student minoring in [innovation & design programme (iDP)](https://cde.nus.edu.sg/edic/idp/) at NUS. My username wr1159, comes from my initials (WR) and a 4 digit number i like (1159).
+I am Wei Rong, a penultimate computer science student minoring in [innovation & design programme (iDP)](https://cde.nus.edu.sg/edic/idp/) at NUS. My username wr1159, comes from my initials (WR) and a 4 digit number i like (1159).
 
 I love Software Engineering and other forms of engineering as it allows me to create solutions whenever I think, "If only there was something...".  I particularly enjoy the blockchain space because of the constant innovation to capture the attention economy. 
 
