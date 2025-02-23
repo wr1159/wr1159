@@ -2,11 +2,11 @@ Hello! 👋
 
 I am Wei Rong, a penultimate computer science student minoring in [innovation & design programme (iDP)](https://cde.nus.edu.sg/edic/idp/) at NUS. My username wr1159, comes from my initials (WR) and a 4 digit number i like (1159).
 
-I love Software Engineering and other forms of engineering as it allows me to create solutions whenever I think, "If only there was something...".  I particularly enjoy the blockchain space because of the constant innovation to capture the attention economy. 
+I love Software Engineering and other forms of engineering as it allows me to create solutions whenever I think, "If only there was something...".  I particularly enjoy the blockchain space because of the constant innovation to capture the attention economy. I also enjoy joining hackathons in the space.
 
 I like playing the [Otamatone](https://otamatone.com/) and posting on LinkedIn for fun. 
 
-Feel free to take a look at my past projects at [wr1159.github.io/](https://wr1159.github.io/)
+Feel free to take a look at my past projects at [weirong.ch](https://weirong.ch)
 <!--
 **wr1159/wr1159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
